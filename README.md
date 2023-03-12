@@ -1,1 +1,2 @@
-# misskey.io-id-checker
+# misskey.io id checker.py
+<3
